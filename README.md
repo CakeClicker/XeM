@@ -1,4 +1,4 @@
-# YimMenu made possible by [BigBaseV2](https://github.com/Pocakking/BigBaseV2)
+# XeM made possible by [BigBaseV2](https://github.com/Pocakking/BigBaseV2)
 A mod menu base for Grand Theft Auto V.
 Strictly for educational purposes.
 
